@@ -1,1 +1,2 @@
 # Fake-job-detection
+The aim of the project is to develop a reliable machine learning model that could differentiate fraudulent job offerings from real job offerings. The model should recognize the general trend of fake job offerings and make decisions of whether the job offer is fake or real. Additionally, willing to integrate the model to a web application, so job seekers could check the authenticity of the job postings.
